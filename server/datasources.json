@@ -1,6 +1,6 @@
 {
   "db": {
-    "host": "/cloudsql/api-produto-aspnet:southamerica-east1:api-produto-aspnet",
+    "host": "localhost",
     "database": "api_produto_aspnet",
     "password": "abc123",
     "name": "db",
