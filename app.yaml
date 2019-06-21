@@ -1,6 +1,3 @@
-[START app_yaml]
 runtime: nodejs
 env: flex
-beta_settings:
-    cloud_sql_instances: api-produto-aspnet:southamerica-east1:api-produto-aspnet
-[END app_yaml]
+cloud_sql_instances: api-produto-aspnet:southamerica-east1:api-produto-aspnet
