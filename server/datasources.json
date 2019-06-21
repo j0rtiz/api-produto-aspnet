@@ -1,6 +1,6 @@
 {
   "db": {
-    "host": "127.0.0.1",
+    "host": "35.198.45.125",
     "database": "api_produto_aspnet",
     "password": "abc123",
     "name": "db",
