@@ -1,6 +1,6 @@
 {
   "db": {
-    "host": "127.0.0.1",
+    "host": "35.198.45.125",
     "port": 3306,
     "url": "",
     "database": "api_produto_aspnet",
