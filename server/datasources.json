@@ -1,6 +1,7 @@
 {
   "db": {
-    "socketPath": "/cloudsql/api-produto-aspnet:southamerica-east1:api-produto-aspnet",
+    "host": "23.236.52.80",
+    "port": "3306",
     "database": "api_produto_aspnet",
     "password": "abc123",
     "name": "db",
