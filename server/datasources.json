@@ -1,11 +1,11 @@
 {
   "db": {
-    "host": "23.236.52.80",
-    "port": "3306",
-    "database": "api_produto_aspnet",
-    "password": "abc123",
+    "host": "ec2-54-83-9-169.compute-1.amazonaws.com",
+    "port": "5432",
+    "database": "d90v8ubhg3o30g",
+    "password": "c312359d9b5600830a208f72f8d6613e82d1cbdc518c530cd2baa7dde1106152",
     "name": "db",
-    "user": "jairo",
-    "connector": "mysql"
+    "user": "iuruzabcbuuueh",
+    "connector": "postgresql"
   }
 }
