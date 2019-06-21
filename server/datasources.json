@@ -1,8 +1,6 @@
 {
   "db": {
-    "host": "35.198.45.125",
-    "port": 3306,
-    "url": "",
+    "host": "/cloudsql/api-produto-aspnet:southamerica-east1:api-produto-aspnet",
     "database": "api_produto_aspnet",
     "password": "abc123",
     "name": "db",
